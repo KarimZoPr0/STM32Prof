@@ -156,6 +156,8 @@ int main(void)
             ProfEnd();
         }
 
+        HAL_Delay(100);
+
         /////////////////////////////
         //- karim:
         //
@@ -165,6 +167,8 @@ int main(void)
             ProfEnd();
         }
 
+        HAL_Delay(100);
+
         /////////////////////////////
         //- karim:
         //
@@ -173,6 +177,9 @@ int main(void)
             HAL_GPIO_TogglePin(LD2_GPIO_Port, LD2_Pin);
             ProfEnd();
         }
+
+        HAL_Delay(100);
+
     }
 
     /* USER CODE END WAHILE */
