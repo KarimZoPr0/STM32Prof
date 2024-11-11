@@ -177,7 +177,7 @@
   * @}
   */
 
-/** @addtogroup STM32L4xx_System_Private_FunctionPrototypes
+/** @addtogroup STM32L4xx_System_Private_FunctionP3 rototypes
   * @{
   */
 
