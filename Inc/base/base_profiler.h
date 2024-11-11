@@ -25,6 +25,6 @@ spall__buffer_profile(&spall_ctx, &spall_buffer, start_cycle, end_cycle, prof_na
 #define ProfBegin(...) (0)
 #define ProfEnd()
 #define ProfilerQuit()
-#endif // BUILD_SPALL
+#endif
 
 #endif // BASE_PROFILER_H

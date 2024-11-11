@@ -8,7 +8,7 @@ BAUD_RATE = 115200
 # Unique reset message from MCU
 RESET_MESSAGE = b'MCU_RESET\n'
 
-LOG_FILE_NAME = 'embed-test.spall'
+LOG_FILE_NAME = 'STM32Prof.spall'
 
 def main():
     try:
